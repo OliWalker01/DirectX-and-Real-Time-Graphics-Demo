@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\Downloads\\U2063693 - Product\\Visualiser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B582C848-8474-42F1-91EE-C5B948FE3486}|Engine\\Engine.vcxproj|C:\\Users\\olive\\Downloads\\U2063693 - Product\\Visualiser\\Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B582C848-8474-42F1-91EE-C5B948FE3486}|Engine\\Engine.vcxproj|solutionrelative:Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\olive\\Downloads\\U2063693 - Product\\Visualiser\\Engine\\main.cpp",
+              "RelativeDocumentMoniker": "Engine\\main.cpp",
+              "ToolTip": "C:\\Users\\olive\\Downloads\\U2063693 - Product\\Visualiser\\Engine\\main.cpp",
+              "RelativeToolTip": "Engine\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T17:40:17.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

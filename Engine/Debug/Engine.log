@@ -1,0 +1,12 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  applicationclass.cpp
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(95,27): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(154,28): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(295,46): warning C4316: 'RenderTextureClass': object allocated on the heap may not be aligned 16
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(310,46): warning C4316: 'RenderTextureClass': object allocated on the heap may not be aligned 16
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(1242,16): warning C4101: 'result': unreferenced local variable
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(1328,11): warning C4101: 'clipPlane': unreferenced local variable
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(1357,11): warning C4101: 'clipPlane': unreferenced local variable
+F:\Real Time Graphics\Assignment\Visualiser\Engine\applicationclass.cpp(1420,84): warning C4101: 'rotateMatrix': unreferenced local variable
+applicationclass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Engine.vcxproj -> F:\Real Time Graphics\Assignment\Visualiser\Debug\Engine.exe

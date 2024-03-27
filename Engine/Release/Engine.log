@@ -1,0 +1,48 @@
+﻿  applicationclass.cpp
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(95,15): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(154,13): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(295,24): warning C4316: 'RenderTextureClass': object allocated on the heap may not be aligned 16
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(310,24): warning C4316: 'RenderTextureClass': object allocated on the heap may not be aligned 16
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(1242,16): warning C4101: 'result': unreferenced local variable
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(1328,11): warning C4101: 'clipPlane': unreferenced local variable
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(1357,11): warning C4101: 'clipPlane': unreferenced local variable
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\applicationclass.cpp(1420,84): warning C4101: 'rotateMatrix': unreferenced local variable
+  bumpmapshaderclass.cpp
+  cameraclass.cpp
+  cpuclass.cpp
+  d3dclass.cpp
+  DDSTextureLoader.cpp
+  firemodelclass.cpp
+  fireshadderclass.cpp
+  fontclass.cpp
+  fontshaderclass.cpp
+  fpsclass.cpp
+  guitarsoundclass.cpp
+  inputclass.cpp
+  lightclass.cpp
+  lightshaderclass.cpp
+  main.cpp
+  modelclass.cpp
+  positionclass.cpp
+  reflectionshaderclass.cpp
+  rendertextureclass.cpp
+  Compiling...
+  shadermanagerclass.cpp
+  skydomeclass.cpp
+  skydomeshaderclass.cpp
+  skyplaneclass.cpp
+  skyplaneshaderclass.cpp
+  soundclass.cpp
+  systemclass.cpp
+  textclass.cpp
+  textureclass.cpp
+  textureshaderclass.cpp
+  timerclass.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Engine\guitarsoundclass.cpp(336): warning C4715: 'GuitarSoundClass::PlayWaveFile': not all control paths return a value
+  All 549 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Engine.vcxproj -> C:\Users\olive\Downloads\U2063693 - Product\Visualiser\Release\Engine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
